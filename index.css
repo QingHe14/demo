@@ -1,0 +1,33 @@
+/* 网站主要的css样式表 */
+*{
+	font-family: 黑体;
+	margin: 0;
+}
+a{
+	color: black;
+}
+footer{
+	background-color: seagreen;
+}
+h2{
+	background-color: seagreen;
+}
+.shadow{
+	text-shadow: 5px 5px 5px;
+}
+p{
+	text-indent: 2em;
+	font-size: 20px;
+}
+.div_border{
+	border: 2px solid seagreen;
+}
+h2{
+	font-size: 50px;
+	color: yellowgreen;
+	font-weight: 900;
+	font-family: 思源黑体;
+}
+summary{
+	font-size: 40px;
+}
