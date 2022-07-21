@@ -1,0 +1,14 @@
+/* 网站主要的css样式表 */
+*{
+	font-family: 黑体;
+	margin: 0;
+}
+a{
+	color: black;
+}
+footer{
+	background-color: pink;
+}
+h2{
+	background-color: pink;
+}
